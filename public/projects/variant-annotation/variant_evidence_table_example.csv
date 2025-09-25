@@ -1,0 +1,4 @@
+rsID,gene_symbol,variant_type,allele_string,chromosome,position,genome_build,most_severe_consequence,consequence,impact,gnomad_AF,clinical_significance_combined,clinvar_clinsig,priority
+rs429358,APOE,SNP,T/C,19,44908684,GRCh38,missense_variant,missense_variant,MODERATE,0.138498,"uncertain significance, not provided, likely pathogenic, pathogenic, drug response, other, risk factor, association, protective, established risk allele",,NO
+rs7412,APOE,SNP,C/T,19,44908822,GRCh38,missense_variant,missense_variant,MODERATE,0.0615035,"benign, likely benign, pathogenic, drug response, other, risk factor",,NO
+rs121913529,KRAS,SNP,C/A/G/T,12,25245350,GRCh38,missense_variant,missense_variant,MODERATE,,"not provided, likely pathogenic, pathogenic, association",,NO
